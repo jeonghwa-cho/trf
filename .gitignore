@@ -1,1 +1,6 @@
 .pynb_checkpoints/*.ipynb
+.ipynb_checkpoints/Auditory-TRFs-checkpoint.ipynb
+.ipynb_checkpoints/estimate_trfs_Alice-checkpoint.ipynb
+.ipynb_checkpoints/estimate_trfs_LittlePrince-checkpoint.ipynb
+.ipynb_checkpoints/make_gammatone_predictors-checkpoint.ipynb
+.ipynb_checkpoints/make_gammatone-checkpoint.ipynb
